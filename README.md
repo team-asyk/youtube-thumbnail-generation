@@ -7,9 +7,9 @@ Thanks for visiting our page:)
 
 This tool automatically generates attractive thumbnails for YouTube [1].
 
-## **We are preparing to release the source code now.**
+**We are preparing to release the source code now.**
 
-## **Please wait for a little while longer.**
+**Please wait for a little while longer.**
 
 <p align="center"><br>
 <b><a>- Contributors -</a></b><br><br>
