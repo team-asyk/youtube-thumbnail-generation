@@ -7,10 +7,6 @@ Thanks for visiting our page:)
 
 This tool automatically generates attractive thumbnails for YouTube [1].
 
-**We are preparing to release the source code now.**
-
-**Please wait for a little while longer.**
-
 <p align="center"><br>
 <b><a>- Contributors -</a></b><br><br>
 <b><a><a href="https://github.com/imcyano"><img src="https://avatars.githubusercontent.com/imcyano" width="70px;" style="border-radius: 50%;" /></a></b> 
